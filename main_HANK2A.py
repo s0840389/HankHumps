@@ -329,7 +329,7 @@ ax2.legend()
 #plt.title('Decomposition of consumption response to monetary policy')
 plt.show()
 
-fig1.savefig('Consump_decomp.png')
+fig1.savefig('Consump_decomp_2A.png')
 
 # Output IRFs comparison
 
